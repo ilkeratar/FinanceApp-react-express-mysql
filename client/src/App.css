@@ -1,0 +1,14 @@
+.formArea{
+  height: 412px;
+}
+form{
+  display: flex;
+  flex-direction: column;
+}
+
+table{
+  width: 100%;
+}
+.btn-primary{
+  width: 200px;
+}
